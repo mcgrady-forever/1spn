@@ -1,0 +1,15 @@
+{
+  "name": "1spn",
+  "version": "0.0.1",
+  "description": "Focus on sports living",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
